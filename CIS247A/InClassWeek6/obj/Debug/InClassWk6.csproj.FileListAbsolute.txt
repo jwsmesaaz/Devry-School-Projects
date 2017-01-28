@@ -1,0 +1,5 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk6\bin\Debug\InClassWk6.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk6\bin\Debug\InClassWk6.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk6\obj\Debug\InClassWk6.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk6\obj\Debug\InClassWk6.pdb

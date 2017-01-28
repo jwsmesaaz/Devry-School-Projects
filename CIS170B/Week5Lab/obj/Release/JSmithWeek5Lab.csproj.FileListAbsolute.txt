@@ -1,0 +1,7 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\JSmithWeek5Lab\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\JSmithWeek5Lab\bin\Release\JSmithWeek5Lab.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\JSmithWeek5Lab\bin\Release\JSmithWeek5Lab.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\JSmithWeek5Lab\obj\Release\JSmithWeek5Lab.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\JSmithWeek5Lab\obj\Release\JSmithWeek5Lab.pdb
+C:\Users\Jon\Documents\School\CIS170B\Week 4\JSmithWeek5Lab\JSmithWeek5Lab\obj\Release\JSmithWeek5Lab.exe
+C:\Users\Jon\Documents\School\CIS170B\Week 4\JSmithWeek5Lab\JSmithWeek5Lab\obj\Release\JSmithWeek5Lab.pdb

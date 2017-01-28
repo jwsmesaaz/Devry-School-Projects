@@ -1,0 +1,16 @@
+﻿body {
+}
+.style1 {
+
+	color: #996633;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.Title
+{
+    font: Verdana, Arial, Helvetica, San-serif;
+    color: #996633;
+    font-size: x-large;
+    font-weight: bold;
+    text-transform: capitalize;
+    border-bottom-style: solid;
+}

@@ -1,0 +1,5 @@
+C:\Users\Jon\Documents\School\CIS247A\Week 5\SmithWk4Lab\SmithWk4Lab\bin\Debug\SmithWk4Lab.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 5\SmithWk4Lab\SmithWk4Lab\bin\Debug\SmithWk4Lab.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 5\SmithWk4Lab\SmithWk4Lab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\School\CIS247A\Week 5\SmithWk4Lab\SmithWk4Lab\obj\Debug\SmithWk4Lab.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 5\SmithWk4Lab\SmithWk4Lab\obj\Debug\SmithWk4Lab.pdb

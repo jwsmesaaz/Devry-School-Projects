@@ -1,0 +1,10 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk5\bin\Debug\InClassWk5.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk5\bin\Debug\InClassWk5.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk5\obj\Debug\InClassWk5.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\InClassWk5\obj\Debug\InClassWk5.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 5\InClassWk5\InClassWk5\obj\Debug\InClassWk5.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 5\InClassWk5\InClassWk5\obj\Debug\InClassWk5.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 5\InClassWk5\InClassWk5\bin\Debug\InClassWk5.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 5\InClassWk5\InClassWk5\bin\Debug\InClassWk5.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 5\InClassWk5\InClassWk5\obj\Debug\ResolveAssemblyReference.cache

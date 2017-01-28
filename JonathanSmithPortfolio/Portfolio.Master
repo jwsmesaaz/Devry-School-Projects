@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Portfolio.master.cs" Inherits="JonathanSmithPortfolio.Portfolio" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Jonathan Smith</title>
+    <style type="text/css">
+        .style1
+        {
+            color: #FFFFFF;
+            font-size: xx-large;
+            text-align: center;
+        }
+    </style>
+    <script>
+        var _prum = [['id', '54e37035abe53d4d4c3da38d'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function () {
+            var s = document.getElementsByTagName('script')[0]
+            , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color: #000000">
+    <form id="form1" runat="server">
+    <div>
+        <table style="width: 100%">
+        <tr>
+            <td style="width: 25px">
+            
+            </td>
+            <td style="width: 200px">
+            
+            </td>
+            <td style="width: auto">
+                <a href="Home.aspx"><p class="style1"><strong>Jonathan Smith</strong></p></a>
+            </td>
+            <td style="width: 25px">
+            
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 25px">
+            
+            </td>
+            <td style="width: 200px; vertical-align: top;">
+                <a href="default.aspx" style="color: #FFFFFF">Home</a><br />
+                <a href="StatementofAuthenticity.aspx" style="color: #FFFFFF">Statement of Authenticity</a><br />
+                <a href="PersonalMissionStatement.aspx" style="color: #FFFFFF">Personal Mission Statement</a><br />
+                <a href="YourElevatorSpeech.aspx" style="color: #FFFFFF">Elevator Speech</a><br />
+                <a href="EducationSection.aspx" style="color: #FFFFFF">Education Section</a><br />
+                <a href="ReferenceSection.aspx" style="color: #FFFFFF">Reference Section</a><br />
+                <a href="ReferenceList.aspx" style="color: #FFFFFF">Reference List</a><br />
+                <a href="AwardsandAccomplishments.aspx" style="color: #FFFFFF">Awards and Accomplishments</a><br />
+                <a href="VolunteerHistory.aspx" style="color: #FFFFFF">Volunteer History</a><br />
+                <a href="ProfessionalAffiliations.aspx" style="color: #FFFFFF">Professional Affiliation</a><br />
+                <a href="CareerPath.aspx" style="color: #FFFFFF">Career Path</a><br />
+                <a href="WorkSamples.aspx" style="color: #FFFFFF">Work Samples</a><br />
+            </td>
+            <td style="width: auto">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    
+                </asp:ContentPlaceHolder>
+            </td>
+            <td style="width: 25px">
+                
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 25px">
+                
+            </td>
+            <td style="width: 200px">
+                <script type="text/javascript" src="https://go119.infusionsoft.com/app/form/iframe/12243af6a528e7f6f7216b649428f9b2"></script>
+            </td>
+            <td style="width: auto">
+                
+            </td>
+            <td style="width: 25px">
+            
+            </td>
+        </tr>
+    </table>
+        
+    </div>
+    </form>
+</body>
+</html>

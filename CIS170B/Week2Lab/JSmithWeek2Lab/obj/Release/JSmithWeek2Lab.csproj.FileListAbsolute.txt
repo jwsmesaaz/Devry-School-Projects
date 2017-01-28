@@ -1,0 +1,5 @@
+C:\Users\Jon\Documents\School\CIS170B\Week 2\JSmithWeek2Lab\JSmithWeek2Lab\bin\Release\JSmithWeek2Lab.exe
+C:\Users\Jon\Documents\School\CIS170B\Week 2\JSmithWeek2Lab\JSmithWeek2Lab\bin\Release\JSmithWeek2Lab.pdb
+C:\Users\Jon\Documents\School\CIS170B\Week 2\JSmithWeek2Lab\JSmithWeek2Lab\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\School\CIS170B\Week 2\JSmithWeek2Lab\JSmithWeek2Lab\obj\Release\JSmithWeek2Lab.exe
+C:\Users\Jon\Documents\School\CIS170B\Week 2\JSmithWeek2Lab\JSmithWeek2Lab\obj\Release\JSmithWeek2Lab.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\SmithWk1LabWarGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\School\CIS247A\Week 1\SmithWk1LabWarGame\SmithWk1LabWarGame\bin\Debug\SmithWk1LabWarGame.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 1\SmithWk1LabWarGame\SmithWk1LabWarGame\bin\Debug\SmithWk1LabWarGame.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 1\SmithWk1LabWarGame\SmithWk1LabWarGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\School\CIS247A\Week 1\SmithWk1LabWarGame\SmithWk1LabWarGame\obj\Debug\SmithWk1LabWarGame.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 1\SmithWk1LabWarGame\SmithWk1LabWarGame\obj\Debug\SmithWk1LabWarGame.pdb

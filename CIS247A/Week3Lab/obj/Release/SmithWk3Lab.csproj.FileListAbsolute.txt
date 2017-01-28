@@ -1,0 +1,7 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\SmithWk3Lab\bin\Release\SmithWk3Lab.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\SmithWk3Lab\bin\Release\SmithWk3Lab.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\SmithWk3Lab\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\SmithWk3Lab\obj\Release\SmithWk3Lab.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\SmithWk3Lab\obj\Release\SmithWk3Lab.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 3\Week3Lab\SmithWk3Lab\SmithWk3Lab\obj\Release\SmithWk3Lab.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 3\Week3Lab\SmithWk3Lab\SmithWk3Lab\obj\Release\SmithWk3Lab.pdb

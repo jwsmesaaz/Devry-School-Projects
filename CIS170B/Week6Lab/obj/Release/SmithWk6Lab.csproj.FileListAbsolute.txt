@@ -1,0 +1,8 @@
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\obj\Release\SmithWk6Lab.Form1.resources
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\obj\Release\SmithWk6Lab.Properties.Resources.resources
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\obj\Release\SmithWk6Lab.csproj.GenerateResource.Cache
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\bin\Release\SmithWk6Lab.exe
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\bin\Release\SmithWk6Lab.pdb
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\obj\Release\SmithWk6Lab.exe
+C:\Users\Jon\Documents\School\CIS170B\Week 4\SmithWk6Lab\SmithWk6Lab\obj\Release\SmithWk6Lab.pdb

@@ -1,0 +1,4 @@
+E:\Websites\a2zinvitations\a2zinvitations\bin\a2zinvitations.dll
+E:\Websites\a2zinvitations\a2zinvitations\bin\a2zinvitations.pdb
+E:\Websites\a2zinvitations\a2zinvitations\obj\Debug\a2zinvitations.dll
+E:\Websites\a2zinvitations\a2zinvitations\obj\Debug\a2zinvitations.pdb

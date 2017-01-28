@@ -1,0 +1,9 @@
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\SmithWk7Lab.fmEmployeeForm.resources
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\SmithWk7Lab.fmEmployeePayrollSystem.resources
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\SmithWk7Lab.Properties.Resources.resources
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\SmithWk7Lab.csproj.GenerateResource.Cache
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\bin\Debug\SmithWk7Lab.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\bin\Debug\SmithWk7Lab.pdb
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\SmithWk7Lab.exe
+C:\Users\Jon\Documents\School\CIS247A\Week 7\SmithWk7Lab\SmithWk7Lab\obj\Debug\SmithWk7Lab.pdb
